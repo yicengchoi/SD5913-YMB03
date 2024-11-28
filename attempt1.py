@@ -34,7 +34,7 @@ class TarotApp:
         ]  # 背面图大图路径
 
         # 设置图片目录路径
-        self.image_directory = r'E:\Unreal_Projects\SD5913-YMB03\images\cards'
+        self.image_directory = './images/cards'
 
         # 创建页面容器
         self.pages = []
